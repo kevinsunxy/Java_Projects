@@ -8,12 +8,12 @@ Description:
 
 Compilation: $ javac TwoSCompConverter.java
 
-Execution: java TwoSCompConverter yourInput
+Execution: $ java TwoSCompConverter yourInput
 
 Input format:
 
     You can put spaces in your input to make it easier for you.
-    For example, "-12345678" is the same as "1234 5678" and 
+    For example, "-12345678" is the same as "-1234 5678" and 
     "-1 2 3     4 5 678". This works for all kinds of inputs. 
 
     - Decimal: positive or negative decimal numbers
