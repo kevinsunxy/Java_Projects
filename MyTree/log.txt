@@ -1,0 +1,19 @@
+MyTree
+
+TODO:
+- maybe more swithes and show more info in the future
+
+update:
+- all switches works with no bug
+- fix hidden file/dir wrong order bug
+
+2019 jan 19
+- simplified the if else structure
+- deleted all the unnecessary System.out.println
+- create final static Strings for box drawing unicodes
+- show the information of the dir depending on the switches entered, 
+    for example, if -d, only show numbers of the dirs, not the number of the files and hidden files.
+
+2019 jan 21
+- on mimi, the hidden files and dirs can be placed behind the visible files/dirs in the array,
+  that messed up the last box drawing, finally fixed it today.
